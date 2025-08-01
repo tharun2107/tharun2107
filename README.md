@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharun Kudikyala</h1>
 <h3 align="center">MERN stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://tharun21.netlify.app/](https://tharun21.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tharun21.netlify.app/](https://tharunkudikyala.netlify.app/)
 
 - 📫 How to reach me **tharunkudikyala@gmail.com**
 
